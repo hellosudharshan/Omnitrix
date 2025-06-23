@@ -19,4 +19,4 @@ Clone the repo and have fun!!
 - HTML5 & CSS3 for layout and styling
 - Video assets for transformation effects
 
-### #Inspired by the Ben 10 franchise.
+### #Inspired by the Ben 10 franchise
